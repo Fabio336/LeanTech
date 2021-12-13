@@ -1,3 +1,3 @@
 # Python Test
-This repository is about 5 Python exercises about Python.
+This repository is about 4 Python exercises about Python.
 
