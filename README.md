@@ -1,2 +1,3 @@
 # LeanTech
-This repository is about the admision test for Lean Test. 
+This repository is about 5 Python exercises about Python.
+
